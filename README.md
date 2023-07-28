@@ -1,5 +1,7 @@
 # TDAOpt
 
+🚜 Documentation is still WIP. Feel free to open a PR if you have any quetions. 🚧
+
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://sidv23.github.io/TDAOpt.jl/stable/)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://sidv23.github.io/TDAOpt.jl/dev/)
 [![Build Status](https://github.com/sidv23/TDAOpt.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/sidv23/TDAOpt.jl/actions/workflows/CI.yml?query=branch%3Amain)
@@ -9,6 +11,11 @@
 `TDAOpt.jl` is a Julia package to optimize statistical and topological loss functions defined on point-clouds and functions defined on fixed grids. 
 
 
+## Installation
+From the Julia REPL, type `]` to enter the Pkg REPL mode and run
+```julia
+    pkg> add https://github.com/sidv23/TDAOpt.jl
+```
 
 ---
 
